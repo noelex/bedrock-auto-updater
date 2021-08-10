@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "BedrockUpdater": {
+      "commandName": "Executable",
+      "executablePath": "D:\\bedrock\\vellum.exe",
+      "workingDirectory": "D:\\bedrock"
+    }
+  }
+}
